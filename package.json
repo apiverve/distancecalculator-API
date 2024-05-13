@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/distancecalculator",
+  "version": "1.0.0",
+  "description": "Distance Calculator is a simple tool for calculating the distance between two locations. It returns the distance in miles and kilometers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/distancecalculator-API.git"
+  },
+  "keywords": [
+    "distance calculator"," distance calculator api"," distance calculator tool"," distance calculator software"," distance calculator service"," distance calculator library"," distance calculator sdk"," distance calculator code"," distance calculator script"," distance calculator program"," distance calculator application"," distance calculator app"," distance calculator utility"," distance calculator helper"," distance calculator helper tool"," distance calculator helper software"," distance calculator helper service"," distance calculator helper library"," distance calculator helper sdk"," distance calculator helper code"," distance calculator helper script"," distance calculator helper program"," distance calculator helper application"," distance calculator helper app"," distance calculator helper utility"," distance calculator helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/distancecalculator-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/distancecalculator-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
