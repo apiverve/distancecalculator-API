@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/distancecalculator-API.git"
   },
   "keywords": [
-    "distance calculator"," distance calculator api"," distance calculator tool"," distance calculator software"," distance calculator service"," distance calculator library"," distance calculator sdk"," distance calculator code"," distance calculator script"," distance calculator program"," distance calculator application"," distance calculator app"," distance calculator utility"," distance calculator helper"," distance calculator helper tool"," distance calculator helper software"," distance calculator helper service"," distance calculator helper library"," distance calculator helper sdk"," distance calculator helper code"," distance calculator helper script"," distance calculator helper program"," distance calculator helper application"," distance calculator helper app"," distance calculator helper utility"," distance calculator helper"
+    "distance calculator","distance calculator api","distance calculator tool","distance calculator software","distance calculator service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
