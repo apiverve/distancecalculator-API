@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/distancecalculator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Distance Calculator is a simple tool for calculating the distance between two locations. It returns the distance in miles and kilometers.",
   "main": "index.js",
   "scripts": {
