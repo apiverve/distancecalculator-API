@@ -83,7 +83,6 @@ api.execute(query, function (error, data) {
       "state": "California"
     },
     "location2": {
-      "zipcode": "90013",
       "latitude": "34.044662",
       "longitude": "-118.24255",
       "city": "Los Angeles",
