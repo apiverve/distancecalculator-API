@@ -88,7 +88,8 @@ api.execute(query, function (error, data) {
       "city": "Los Angeles",
       "state": "California"
     }
-  }
+  },
+  "code": 200
 }
 ```
 
